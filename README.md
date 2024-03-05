@@ -9,6 +9,7 @@ Welcome to Help Desk Application, the app that makes it simple to manage help de
 
 - Help Desk  allows for quick and safe signup/login so that you can create and manage those tickets
 
+- To access the platform, use help-desk-ticket-frontend.vercel.app. Currently, this site is deployed on a free-tier on Vercel for front end and Render for backend. 
 
 # Getting Started with Frontend
 
