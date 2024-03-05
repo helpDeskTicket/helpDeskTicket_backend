@@ -4,7 +4,7 @@ import {
   createATicket,
   findASingleTicket,
   getAllTiket,
-  sloveATicket,
+  solveATicket,
 } from "../controller/ticketController.js";
 import verifyUser from "../utils/verifyUser.js";
 
