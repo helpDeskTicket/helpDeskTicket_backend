@@ -20,13 +20,12 @@ Welcome to Help Desk Application, the app that makes it simple to manage help de
 
 # Getting Started with Frontend
 
+- To access the frontend repository, [click here](https://github.com/helpDeskTicket/helpDeskTicket_frontend)
 - Fork and clone the repo to your local machine.
 - Then run `npm install` to install dependencies.
 - After that, simply run `npm run dev` to run application.
   
 # Backend Repository Setup
-
-- To access the backend repository, [click here](https://github.com/helpDeskTicket/helpDeskTicket_backend)
 
 - Create a .env file and declare a variable `MONGO_URL` with MongoDB URL.
 - Declare a second variable in your .env file as `JWT_SECRET` and assign its value to a random string.
